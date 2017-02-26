@@ -1,0 +1,81 @@
+.text-center{
+	text-align: center;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.text-white{
+	color: white;
+}
+
+.text-menu{
+	font-size: 17;
+}
+
+.bg-image{
+	background-image: url("https://static1.squarespace.com/static/51c748abe4b0c275d0aa86bf/56141f2be4b0a4afc2d17505/5792633244024387a8baba0b/1469211556386/pour-over-coffee-980.gif?format=500w");
+	background-size: cover;
+	padding-top: 120;
+	padding-bottom: 200;
+}
+
+.nottingham-image{
+	background-image: url("https://static1.squarespace.com/static/51c748abe4b0c275d0aa86bf/56141631e4b0095d43132f02/5614164be4b0652b31fbd0a5/1444744817955/parislove9801.gif?format=1000w");
+	background-size: cover;
+	padding-top: 25;
+	padding-bottom: 100;
+}
+
+.bg-color{
+	background-color: #e74c3c;
+}
+
+.bg-color2{
+	background-color: #f2e5dc;
+}
+
+.btn-round{
+	border-radius: 20;
+}
+
+.btn-round-logo{
+	border-radius: 40;
+}
+
+.narrow-paragraph{
+	margin-left: 10;
+	margin-right: 10;
+}
+
+.menu-color{
+	background-color: #c3b0b0;
+	padding-top: 3;
+	padding-bottom: 5;
+}
+
+.no-bottom-margin{
+	margin: 0;
+}
+
+.bottom-margin{
+	margin-bottom: 10;
+}
+
+.bottom-padding{
+	padding-bottom: 20;
+}
+
+.top-padding{
+	padding-top: 20;
+}
+
+.opacity-color{
+	background-color: #750d05;
+	opacity: 0.5;
+}
+
+.opacity-0.75{
+	opacity: 0.35;
+}
